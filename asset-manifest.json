@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/medicine-reminder/static/css/main.bb07915e.css",
+    "main.js": "/medicine-reminder/static/js/main.db681a3e.js",
+    "index.html": "/medicine-reminder/index.html",
+    "main.bb07915e.css.map": "/medicine-reminder/static/css/main.bb07915e.css.map",
+    "main.db681a3e.js.map": "/medicine-reminder/static/js/main.db681a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb07915e.css",
+    "static/js/main.db681a3e.js"
+  ]
+}
